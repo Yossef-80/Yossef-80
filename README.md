@@ -27,7 +27,7 @@ $${\color{#fffffff}I'm \space \color{#2375ff}Youssef \space \color{#2375ff}Muham
 -  📱 &nbsp; I've made several java projects, I'm currently learning kotlin Jetpack compose.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Yossef-80).
 - 📫 &nbsp; How to reach me: yousef.mohammed.mdboly@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/Yossef-80/Yossef-80/blob/main/Youssef_Muhammed.pdf).
 
 ### Languages and Tools:
 
