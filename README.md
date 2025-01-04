@@ -22,9 +22,9 @@ $${\color{#fffffff}I'm \space \color{#2375ff}Youssef \space \color{#2375ff}Muham
 
 ### Talking about Personal Stuffs:
 
-- 👨‍🎓 &nbsp; I’m currently a computer science student at Ain Shams university,specialized in information science.
-- 📊 &nbsp; I’m enthusiasic with Data Analysis and deploying Ml algorithms to obtain results
--  📱 &nbsp; I've made several java projects, I'm currently learning kotlin Jetpack compose.
+- 👨‍🎓 &nbsp; A Computer science graduate from Ain Shams university,specialized in information science.
+- 📊 &nbsp; I’m enthusiasic with Data Analysis and deploying Ml algorithms to obtain valiable results
+-  📱 &nbsp; I've made several python projects, I'm currently learning data science.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Yossef-80).
 - 📫 &nbsp; How to reach me: yousef.mohammed.mdboly@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/Yossef-80/Yossef-80/blob/main/Youssef_Muhammed.pdf).
